@@ -8,7 +8,7 @@
 */
 body {
     margin: 0;
-/*    font-family: Calibri, sans-serif;*/
+	font-family: Calibri, sans-serif;
 }
 table {
     border-collapse: collapse;
@@ -17,7 +17,7 @@ table {
 }
 
 th, td {
-/*    text-align: center;*/
+	text-align: center;
     padding: 16px;
     font-size: 18pt;
     border: 1px solid #000;
@@ -60,6 +60,8 @@ th, td {
 
 .body-calibri {
     font-family: Calibri;
+	margin-left: 1cm;
+	margin-right: 1cm;
 }
 
 .body-purple {
