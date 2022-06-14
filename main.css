@@ -30,7 +30,7 @@ th, td {
     width: 100%;
     padding: 10px 10px;
     background: #FDBD35;
-    /*    color: #f1f1f1;*/
+    /* color: #f1f1f1; */
 }
 
 .content {
@@ -44,8 +44,8 @@ th, td {
 .h1-18ptBold {
     text-align: center;
     font-size: 18pt;
-/*    font-family: Calibri, sans-serif;*/
-/*    margin: 0cm;*/
+	font-family: Calibri, sans-serif;	
+   	margin: 0cm;
     font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ th, td {
     color: white;
     background-color: rgb(65,70,152);
     font-weight: bold;
-/*    font-family: Calibri;*/
+   	font-family: Calibri;
 }
 
 .body-calibri {
@@ -63,21 +63,21 @@ th, td {
 }
 
 .body-purple {
-/*    font-family: Calibri;*/
+	font-family: Calibri;
     color: #7030A0;
 }
 
 .body-acknowledgement {
-/*    font-family: Calibri;*/
+	font-family: Calibri;
     font-style: italic;
     font-size: 9.0pt;
     color: #595959;
 }
 .body-smallFont {
         font-family: 'Arial Narrow';
-/*    font-style: italic;*/
+		font-style: italic;
     font-size: 7.0pt;
-/*    color: #595959;*/
+		color: #595959;
 }
 
 
