@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mixing_data" version="1.3.0" audacityversion="2.4.1" sel0="8.3331972800" sel1="12.7478911576" vpos="0" h="0.0000000000" zoom="68.9843756779" rate="22050.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2012-12-19T10:59"/>
+	</tags>
+	<wavetrack name="Loop Acoustic" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="353088">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083cf.au" len="262144" min="-0.160098" max="0.16253" rms="0.050321"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808e2a.au" len="90944" min="-0.159352" max="0.157087" rms="0.053831"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Applause" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="8.33319728" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="97344">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081c9.au" len="97344" min="-0.500683" max="0.539493" rms="0.04019"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="praise7" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="2.22662132" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="69120">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808760.au" len="69120" min="-0.182236" max="0.182315" rms="0.038735"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="praise7" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="2.22662132" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="69120">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083ac.au" len="69120" min="-0.18209" max="0.182315" rms="0.038757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="putdown9" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="5.75989583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="41472">
+				<waveblock start="0">
+					<simpleblockfile filename="e080844f.au" len="41472" min="-0.191995" max="0.214034" rms="0.045341"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="putdown9" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="5.75989583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="41472">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083af.au" len="41472" min="-0.191995" max="0.214034" rms="0.045341"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
